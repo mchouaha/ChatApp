@@ -1,7 +1,7 @@
 # ChatApp 
 ChatApp is a chatting websocket application using socket.io.
 
-##Packages
+## Packages
 1) NodeJS: Go to the site https://nodejs.org/en/download/ <br />
 2) Express: ```npm install -save```
 3) Socket.io: ```npm install -g socket.io```
