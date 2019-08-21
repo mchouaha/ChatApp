@@ -8,8 +8,9 @@ ChatApp is a chatting websocket application using socket.io.
 4) Nodemon: ```npm install nodemon --save-dev```
 
 ## Usage
-1) nodemon index
-2) Browse http://localhost:4000/
+1) npm install 
+2) nodemon index
+3) Browse http://localhost:4000/
 
 ## Contributing
 Pull requests are welcome.
